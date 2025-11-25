@@ -2,7 +2,7 @@ KELOMPOK 2
 ANGGOTA  : RAHMATUL ULIYA (2408107010012)
          : ANNISA RAHMA FATHIA (2408107010027)
          : SYAKILA NAIRA (2408107010034)
-         : RANIA SHAFIA KHUZAI
+         : RANIA SHAFIA KHUZAI (2008107010051)
 
 PENJELASAM PROJEK:
 Rasa.in adalah project aplikasi sederhana berbasis Java yang dibuat untuk membantu pengelolaan penjualan bakery. Di dalam aplikasi ini terdapat daftar produk seperti roti, brownies, dan berbagai jenis kue yang datanya diambil dari kelas data dummy. Setiap produk dilengkapi informasi seperti kode produk, nama, harga, kategori, dan stok, sehingga pengguna bisa melihat detail sebelum melakukan pembelian.
