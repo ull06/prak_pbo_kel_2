@@ -72,7 +72,7 @@ public class InvoiceGUI extends JDialog {
         // 10. Tombol OK
         JButton btnOk = new JButton("Tutup");
         btnOk.setBackground(darkBrown);
-        btnOk.setForeground(Color.WHITE);
+        btnOk.setForeground(Color.BLACK);
         btnOk.setFont(new Font("SansSerif", Font.BOLD, 12));
         btnOk.setPreferredSize(new Dimension(120, 35));
         btnOk.addActionListener(e -> dispose());
